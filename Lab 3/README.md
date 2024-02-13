@@ -1,0 +1,1 @@
+Write a program that stores table of 10 in an array. And prints values stored in array. (Do Everything with help of Pointers).
